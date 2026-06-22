@@ -1,0 +1,229 @@
+{
+    "_id": "64d9fdff3e12da15ae3a3a0c",
+    "audioPath": "20230814/Incheon/2023/02/06/011/converted_20230206064502_4011-011.wav",
+    "recordId": "e33bef367b6a95d3a494",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 78320,
+    "utterances": [
+        {
+            "id": "wavesurfer_1etpp0kfdio",
+            "startAt": 373,
+            "endAt": 1627,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_av6mgkq961o",
+            "startAt": 2218,
+            "endAt": 3791,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fl9icgibv5o",
+            "startAt": 5724,
+            "endAt": 6678,
+            "text": "말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g850mk98k0g",
+            "startAt": 7164,
+            "endAt": 8582,
+            "text": "투석 환자인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n9elh2g82gg",
+            "startAt": 8724,
+            "endAt": 10233,
+            "text": "투석 환자 분이시라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jtroiji1hkg",
+            "startAt": 10578,
+            "endAt": 11778,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iq2a6pqso0g",
+            "startAt": 12386,
+            "endAt": 15731,
+            "text": "네, 내가 지금 이 콩팥승이 많아 갖고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k26e2knvjt",
+            "startAt": 16413,
+            "endAt": 20286,
+            "text": "다리가 걷지를 못하고 다리가 자꾸 구부러져요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8596prlkdfg",
+            "startAt": 21068,
+            "endAt": 25150,
+            "text": "네, 제가 지금 어디 있냐면 검단 소방서 뒤에 보면요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pbd9klg8pog",
+            "startAt": 27419,
+            "endAt": 29455,
+            "text": "조개왕국이라고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6a6q2sga4ho",
+            "startAt": 30395,
+            "endAt": 32841,
+            "text": "어디시라고요? 그 검단",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j8ncdh7j0e",
+            "startAt": 32413,
+            "endAt": 38323,
+            "text": "네, 검단 소방서 뒤에 보면 선명타운 주차 주차장 앞에 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sihgh600eqo",
+            "startAt": 39099,
+            "endAt": 40445,
+            "text": "무슨 주차장 앞이라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nqraneb7be8",
+            "startAt": 41172,
+            "endAt": 42208,
+            "text": "선명타운.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pv4dtalans",
+            "startAt": 42241,
+            "endAt": 43050,
+            "text": "청.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iakk7hte3io",
+            "startAt": 44032,
+            "endAt": 44505,
+            "text": "선.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bv7n81athvo",
+            "startAt": 44559,
+            "endAt": 46177,
+            "text": "천이요? 천명타운?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_55ravi11vl8",
+            "startAt": 46570,
+            "endAt": 47497,
+            "text": "선 선.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2jo6lh4j2io",
+            "startAt": 50407,
+            "endAt": 51734,
+            "text": "선명타운.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a1sl1mvv2og",
+            "startAt": 51678,
+            "endAt": 53159,
+            "text": "선명이요, 선명?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6oka1pa3e58",
+            "startAt": 53492,
+            "endAt": 54183,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8b3e4i9e8ag",
+            "startAt": 54254,
+            "endAt": 56490,
+            "text": "선명타운 주차장 앞에 계시다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mmpkv0lqdq8",
+            "startAt": 56900,
+            "endAt": 58009,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lru3tcojq78",
+            "startAt": 58607,
+            "endAt": 60316,
+            "text": "그 들것 가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p2d8n9tbtoo",
+            "startAt": 61829,
+            "endAt": 63565,
+            "text": "지금 병원을 가셔야 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iv0oroqe2vg",
+            "startAt": 63796,
+            "endAt": 68314,
+            "text": "예, 여기서 들것 가지고 나 여기 좀 데 데려다 주세요. 그 여 병원이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g549ff17fjg",
+            "startAt": 68562,
+            "endAt": 70789,
+            "text": "어 응급실로 모셔다 드리면 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8np3h9nmaco",
+            "startAt": 71051,
+            "endAt": 71623,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p8g8g79kha8",
+            "startAt": 71547,
+            "endAt": 75547,
+            "text": "예. 기다리고 계세요. 응급 출동하면서 대원이 전화하면 전화 좀 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qdml5ebv9eo",
+            "startAt": 75811,
+            "endAt": 76365,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 왕길동",
+    "disasterLarge": "구급",
+    "disasterMedium": "기타구급",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}
