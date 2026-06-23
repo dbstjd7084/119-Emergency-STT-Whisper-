@@ -4,19 +4,27 @@
 
 "1 Epoch" 만 학습했습니다.
 
-# 모델 실행 결과
-## 기존 ESPnet 배포 모델
+## 빠른 이동
+1. [모델 실행 결과](#모델-실행-결과)
+   1. [ESPnet](#기존-espnet-배포-모델)
+   2. [Whisper-Base(72.6M params)](#whisper-base726m-params)
+   3. [Whisper-Small(0.2B params)](#whisper-small02b-params)
+   4. [Whisper-Large-v3-Turbo(0.8B params)](#whisper-large-v3-turbo08b-params)
+2. [실행 방법 (How to Run](#실행-방법-how-to-run)
+
+## 모델 실행 결과
+### 기존 ESPnet 배포 모델
 <img src="https://github.com/dbstjd7084/119-Emergency-STT-Whisper-/blob/1c2bc67ee3af3dcf46973f12610f27946af323a8/images/espnet.png" alt="ESPnet"/>
 
 CER 10 미만
 
-## Whisper-Base(72.6M params)
+### Whisper-Base(72.6M params)
 <img src="https://github.com/dbstjd7084/119-Emergency-STT-Whisper-/blob/1c2bc67ee3af3dcf46973f12610f27946af323a8/images/whisper-base.png" alt="Whisper-Base"/>
 
-## Whisper-Small(0.2B params)
+### Whisper-Small(0.2B params)
 <img src="https://github.com/dbstjd7084/119-Emergency-STT-Whisper-/blob/1c2bc67ee3af3dcf46973f12610f27946af323a8/images/whisper-small.png" alt="Whisper-Small"/>
 
-## Whisper-Large-v3-Turbo(0.8B params)
+### Whisper-Large-v3-Turbo(0.8B params)
 <img src="https://github.com/dbstjd7084/119-Emergency-STT-Whisper-/blob/1c2bc67ee3af3dcf46973f12610f27946af323a8/images/whisper-large-v3-turbo.png" alt="Whisper-Large-v3-Turbo"/>
 
 ## 실행 방법 (How to Run)
